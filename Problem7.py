@@ -1,3 +1,5 @@
+# Literally brute force
+
 listPrimes = [2]
 
 for a in range(3, 10000000):
